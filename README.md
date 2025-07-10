@@ -2,6 +2,14 @@
 
 Este projeto demonstra a criação de visualizações de dados dinâmicas e envolventes utilizando Python, com foco em uma animação que ilustra a construção de um histograma e a suavidade de uma Curva de Densidade de Kernel (KDE). É uma ferramenta ideal para apresentações, posts em mídias sociais ou portfólios, transformando dados estáticos em uma narrativa visual impactante.
 
+## 🚀 Demonstração
+
+Confira a animação gerada por este projeto:
+
+<p align="center">
+  <img src="media/datavisualization_hist_kde.gif" alt="Animação Histograma e KDE" width="700"/>
+</p>
+
 ## 🎯 Objetivo
 
 O principal objetivo é elevar a experiência da visualização de dados, transformando gráficos tradicionais em animações interativas que capturam a atenção e facilitam a compreensão de padrões e distribuições em conjuntos de dados.
@@ -13,14 +21,6 @@ A animação é composta por duas fases distintas, cada uma revelando progressiv
 1.  **Histograma Animado:** As barras do histograma crescem suavemente, uma por uma, até atingirem suas alturas finais, representando a frequência dos dados em cada bin.
 2.  **Curva KDE Progressiva:** Após a formação do histograma, uma Curva de Densidade de Kernel (KDE) emerge gradualmente da esquerda para a direita, revelando a estimativa de densidade de probabilidade subjacente aos dados.
 3.  **Texto Dinâmico:** Um texto contextual aparece e muda ao longo da animação, guiando o espectador através do processo de construção do gráfico e dos insights apresentados.
-
----
-
-## ▶️ Animação do Projeto
-
-Confira a animação gerada por este projeto:
-
-![Animação Histograma e KDE](media/datavisualization_hist_kde.gif)
 
 ---
 
