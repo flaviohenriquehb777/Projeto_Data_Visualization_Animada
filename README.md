@@ -1,4 +1,4 @@
-# 📊 Data Visualization Animada com Python
+# Data Visualization Animada com Python
 
 Este projeto demonstra a criação de visualizações de dados dinâmicas e envolventes utilizando Python, com foco em uma animação que ilustra a construção de um histograma e a suavidade de uma Curva de Densidade de Kernel (KDE). É uma ferramenta ideal para apresentações, posts em mídias sociais ou portfólios, transformando dados estáticos em uma narrativa visual impactante.
 
